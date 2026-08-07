@@ -4,7 +4,8 @@ This is a fork of the Void Linux version of runit that is designed for non-linux
 
 Planned Changes:
 1. Make it 100% free of Linux spific calls
-2. Make it possible for it to be compiled for 16-bit architectures (e.g. 80286, Motorola 68000/68010)
+2. Make it possible to compile without Unicode (Add the ability to use ANSI)
+3. Make it possible for it to be compiled for 16-bit architectures (e.g. 80286, Motorola 68000/68010)
 
 ORIGINAL README FILE:
 ```
